@@ -25,5 +25,7 @@ Saya sedang belajar membuat aplikasi web yang bermanfaat untuk santri dan komuni
 ## 📫 Kontak
 
 E-mail : jauhariqbal77@gmail.com
-Linkedin :M. Iqbal Jauhar M
-Instagram : @iqbaljamz._
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/m-iqbal-jauhar-m-0b9244431/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-iqbal-jauhar-m" height="30" width="40" /></a>
+<a href="[https://instagram.com/anandasatr_3](https://www.instagram.com/iqbaljamz._/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbaljamz._" height="30" width="40" /></a>
