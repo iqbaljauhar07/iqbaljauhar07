@@ -1,6 +1,6 @@
 # Hai 👋, saya Muhammad Iqbal Jauhar Multazam 
 
-Mahasiswa Pemrograman Web di Pesantren Teknologi Informasi dan Komunikasi (PeTIK) Depok.
+Mahasiswa/Mahasantri Pemrograman Web di Pesantren Teknologi Informasi dan Komunikasi (PeTIK) Depok.
 Saya sedang belajar membuat aplikasi web yang bermanfaat untuk santri dan komunitas.
 
 ## 🛠️ Yang sedang saya pakai
